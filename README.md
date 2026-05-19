@@ -31,4 +31,4 @@ This project was developed using Power BI and Power Query Editor on an E-commerc
 - Aggregation techniques
 - Relationship modeling
 - Business data analysis
-- 
+  
