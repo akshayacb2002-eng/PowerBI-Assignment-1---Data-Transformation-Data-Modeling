@@ -1,6 +1,5 @@
 # PowerBI-Assignment-1---Data-Transformation-Data-Modeling
 E-Commerce Sales Data Analysis using Power BI
-# Power BI Assignment 1 – E-Commerce Sales Data Analysis
 
 ## Project Overview
 This project was developed using Power BI and Power Query Editor on an E-commerce sales dataset. The objective of the assignment was to perform data import, transformation, data cleaning, aggregation, and relationship modeling.
